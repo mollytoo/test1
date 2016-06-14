@@ -5,3 +5,4 @@ add one line by fork
 add line 2 from main
 add line 3 from main
 add line 4 from fork
+add line 5 from main same time
